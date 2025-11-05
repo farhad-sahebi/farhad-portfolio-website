@@ -15,4 +15,4 @@ Personal website and data portfolio — built with PHP, HTML, CSS, and JS.
 ![Footer](docs/footer.png)
 
 ## Contact ##
-![Contact](docs/contact.php)
+![Contact](docs/contact.png)
